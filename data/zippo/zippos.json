@@ -1,0 +1,325 @@
+[
+
+    {
+        "name": "Zippo Car 75th Anniversary Collectible", 
+        "material": "", 
+        "code": "48691",
+        "listPrice": 199.96, 
+        "purchasedPrice": 0, 
+        "acquisition_date": ""
+    },
+    {
+        "name": "Armor Coiled Brass", 
+        "material": "", 
+        "code": "",
+        "listPrice": 99.96, 
+        "purchasedPrice": 0, 
+        "acquisition_date": ""
+    },
+    {
+        "name": "Zippo Design", 
+        "material": "", 
+        "code": "48247",
+        "listPrice": 0, 
+        "purchasedPrice": 0, 
+        "acquisition_date": ""
+    },
+    
+
+
+
+
+    {
+        "name": "65th Anniversary Design", 
+        "code": "65000",
+        "material": "High Polish Chrome",
+        "listPrice": 65.96, 
+        "purchasedPrice": 0.00001, 
+        "acquisition_date": "2025-11-19"
+    },
+    {
+        "name": "Full Moon Design", 
+        "material": "matte", 
+        "code": "49810",
+        "listPrice": 69.96, 
+        "purchasedPrice": 37.57, 
+        "acquisition_date": "2024-09-17"
+    },
+    {
+        "name": "Sunset Black Light Design", 
+        "material": "matte", 
+        "code": "49809",
+        "listPrice": 54.96, 
+        "purchasedPrice": 37.04, 
+        "acquisition_date": "2024-09-17"
+    },
+
+
+    {
+        "name": "Assassin's Creed Valhalla Design", 
+        "material": "High Polish Teal", 
+        "code": "49530-000003",
+        "listPrice": 54.03, 
+        "purchasedPrice": 44.75, 
+        "acquisition_date": "2024-08-23", 
+        "youtubeId": "6kGoKxjiWDY"
+    },
+    {
+        "name": "FarCry 6 Design", 
+        "material": "Matte", 
+        "code": "49549",
+        "listPrice": 49.47, 
+        "purchasedPrice": 34.19, 
+        "acquisition_date": "2024-08-23", 
+        "youtubeId": "OUVmCEpH8H8"
+    },
+    {
+        "name": "Sapphire with Zippo logo", 
+        "material": "Brass", 
+        "code": "20446ZL",
+        "listPrice": 59.96, 
+        "purchasedPrice": 36.30, 
+        "acquisition_date": "2024-04-23"
+    },
+    {
+        "name": "Rose Gold with Zippo logo", 
+        "material": "Brass", 
+        "code": "49190",
+        "listPrice": 59.96, 
+        "purchasedPrice": 39.91, 
+        "acquisition_date": "2024-04-13"
+    },
+
+    {
+        "name": "Drippy Dollar Design", 
+        "material": "Mercury Glass Matte", 
+        "code": "49681",
+        "listPrice": 49.96, 
+        "purchasedPrice": 25.40, 
+        "acquisition_date": "2024-03-13"
+    },
+    
+   {
+        "name": "Zippo Game Design", 
+        "material": "Matte", 
+        "code": "49114",
+        "listPrice": 59.96, 
+        "purchasedPrice": 36.89, 
+        "acquisition_date": "2024-02-26"
+    },
+    {
+        "name": "Zippo Pop Art", 
+        "material": "Matte", 
+        "code": "49533",
+        "listPrice": 69.96, 
+        "purchasedPrice": 69.96, 
+        "acquisition_date": "2024-02-03"
+    },
+    {
+        "name": "Regular Tumbled Brass", 
+        "material": "Brass", 
+        "code": "49477",
+        "listPrice": 54.96, 
+        "purchasedPrice": 43.07, 
+        "acquisition_date": "2023-09-28"
+    },
+    {
+        "name": "License Plate Emblem", 
+        "code": "48689",
+        "material": "Matte", 
+        "listPrice": 56.03, 
+        "purchasedPrice": 37.08, 
+        "acquisition_date": "2023-09-28"
+    },
+    {
+        "name": "T-Rex Licensed to Carry", 
+        "material": "Matte", 
+        "code": "29629",
+        "listPrice": 47.82, 
+        "purchasedPrice": 32.93, 
+        "acquisition_date": "2023-08-27"
+    },
+    {
+        "name": "Wolf and Moon Design", 
+        "code": "29864",
+        "material": "Matte", 
+        "listPrice": 49.96, 
+        "purchasedPrice": 36.08, 
+        "acquisition_date": "2023-07-07"
+    },
+    {
+        "name": "Gambling Design", 
+        "code": "49257",
+        "material": "Matte", 
+        "listPrice": 44.96, 
+        "purchasedPrice": 31.87, 
+        "acquisition_date": "2023-07-04"
+    },
+    {
+        "name": "Aliens Design", 
+        "code": "49487",
+        "material": "Matte, Glow-In-the-Dark",
+        "listPrice": 59.96, 
+        "purchasedPrice": 40.06, 
+        "acquisition_date": "2023-06-07"
+    },
+    {
+        "name": "Engine Turned", 
+        "code": "350",
+        "listPrice": 54.96, 
+        "purchasedPrice": 35.99, 
+        "material": "High Polished Chrome", 
+        "acquisition_date": "2023-05-28"
+    },
+    {
+        "name": "Four Leaf Clover", 
+        "material": "Matte", 
+        "code": "49796",
+        "listPrice": 49.96, 
+        "purchasedPrice": 44.33, 
+        "acquisition_date": "2023-05-27", 
+        "youtubeId": "oEpWG11-1s0"
+    },
+    {
+        "name": "Vintage High Polish Chrome with Slashes", 
+        "material": "High Polish Chrome", 
+        "code": "260",
+        "listPrice": 44.96, 
+        "purchasedPrice": 32.99, 
+        "acquisition_date": "2023-05-27"
+    },
+    {
+        "name": "Vintage High Polish Brass with Slashes", 
+        "material": "High Polish Brass", 
+        "code": "270",
+        "listPrice": 49.96, 
+        "purchasedPrice": 35.99, 
+        "acquisition_date": "2023-05-27",
+        "youtubeId": "lIeJY0ASQDk"
+    },
+
+
+
+    {
+        "name": "90th Anniversary Commemorative Design", 
+        "material": "High Polish Black", 
+        "code": "49864",
+        "listPrice": 99.96, 
+        "purchasedPrice": 99.28, 
+        "acquisition_date": "2023-05-27"
+    },
+    {
+        "name": "Black Crackle Silver Zippo Emblem", 
+        "material": "Black Cracle", 
+        "code": "363",
+        "listPrice": 69.96, 
+        "purchasedPrice": 40.51, 
+        "acquisition_date": "2023-05-27"
+    },
+    {
+        "name": "Jack Daniel's Design", 
+        "material": "Matte", 
+        "code": "49321",
+        "listPrice": 59.96, 
+        "purchasedPrice": 56.11, 
+        "acquisition_date": "2023-05-27"
+    },
+
+    {
+        "name": "Zippo Ultralite Black", 
+        "material": "Chrome, Plastic", 
+        "code": "355",
+        "listPrice": 39.96, 
+        "purchasedPrice": 39.96, 
+        "acquisition_date": "2023-05-21"
+    },
+    {
+        "name": "Black Crackle", 
+        "material": "Black Crackle <span class='triggerHover'>&#9432;<span class='showOnHover'>Just a guess. I couldn't find reference from Zippo website</span></span>", 
+        "code": "236",
+        "listPrice": 39.96, 
+        "purchasedPrice": 25, 
+        "acquisition_date": "2023-05-21" 
+    },
+  
+    {
+        "name": "Harley-Davidson", 
+        "material": "Street Chrome", 
+        "code": "24025",
+        "listPrice": 49.96, 
+        "purchasedPrice": 34.92, 
+        "acquisition_date": "2023-05-21", 
+        "youtubeId": "W6JEsDmdjhE" 
+    },
+    {
+        "name": "Woodchuck Birch", 
+        "material": "Wood, Brass", 
+        "code": "49082",
+        "listPrice": 89.96, 
+        "purchasedPrice": 64.98, 
+        "acquisition_date": "2023-05-20", 
+        "youtubeId": "X4QXPev80pA"
+    },
+    {
+        "name": "8-Ball Design", 
+        "material": "Matte", 
+        "code": "2843",
+        "listPrice": 44.96, 
+        "purchasedPrice": 35.95, 
+        "youtubeId": "fZgT5FVRxyo",
+        "acquisition_date": "2023-05-17" 
+    },
+    {
+        "name": "Anarchy Design", 
+        "material": "Matte", 
+        "code": "20842",
+        "listPrice": 44.96, 
+        "purchasedPrice": 35.48, 
+        "acquisition_date": "2023-05-17", 
+        "youtubeId": "Y77S8ozQFVg" 
+    },
+    {
+        "name": "Joker", 
+        "material": "Matte", 
+        "code": "29632",
+        "listPrice": 44.96, 
+        "purchasedPrice": 33.13, 
+        "acquisition_date": "2023-05-17", 
+        "youtubeId": "_QjiIc4Xq5s"
+    },
+    {
+        "name": "Zippo and Pattern Design", 
+        "material": "High Polish Brass", 
+        "code": "29677",
+        "listPrice": 54.96, 
+        "purchasedPrice": 44.75, 
+        "acquisition_date": "2023-05-12"
+    },
+    {
+        "name": "Playboy", 
+        "material": "Matte", 
+        "code": "49342",
+        "listPrice": 49.96, 
+        "purchasedPrice": 49.96,
+        "youtubeId": "92o8ETgq-Wc",
+        "acquisition_date": "2023-05-12"
+    },
+    {
+        "name": "Serenity Prayer", 
+        "material": "Satin Chrome", 
+        "code": "28458",
+        "listPrice": 39.96, 
+        "purchasedPrice": 30.99, 
+        "youtubeId": "8gRILrAxOpA",
+        "acquisition_date": "2023-05-11"
+    },
+    {
+        "name": "Reg Navy Blue", 
+        "code": "239",
+        "material": "Matte", 
+        "listPrice": 39.96, 
+        "purchasedPrice": 26.93, 
+        "youtubeId": "lh5aytgC8O8",
+        "acquisition_date": "2023-05-11"
+    }
+]

@@ -1,0 +1,46 @@
+section {
+    display: block;
+}
+
+#bagList {
+    display: flex;
+    flex-wrap: wrap;
+    line-height: 1.5rem;
+    /* margin: 0 1rem; */
+}
+
+#bagList span.bag {
+    flex: 0 0 15%;
+    margin-bottom: 1rem;
+}
+
+#bagList br,
+#bagList hr,
+#bagList h3 {
+    width: 100%;
+    display: block;
+}
+
+#bagList hr {
+    color: rgb(234, 234, 234);
+}
+
+#bagList p {
+    margin-top: 0;
+}
+
+.thumbnail {
+    margin: .5rem 0;
+    margin-right: 2rem;
+}
+
+.priceRate span {
+    float: right;
+    margin-right: 2rem;
+}
+
+.box .well { 
+    margin: 0;
+    margin-bottom: 2rem;
+    line-height: 1.5rem;
+}

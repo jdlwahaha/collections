@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../css/animation.css">
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="../../css/nav.css">
+    <link rel="stylesheet" href="../../css/desktop-nav.css">
+    <link rel="stylesheet" href="../../css/box.css">
+    <link rel="stylesheet" href="../../css/font-color.css">
+    <link rel="stylesheet" href="./bags.css">
+
+    <link rel="shortcut icon" href="../../img/icon.jpg" type="image/x-icon">
+	<script src="../../lib/jquery-3.5.1.min.js"></script>
+    <script src="../../js/script.js"></script>
+
+    <title>Bags</title>
+</head>
+
+<body>
+
+    <header><!-- jQuery generated --></header>
+    <section id="mainContent">
+        <div id="main">
+
+            <section class="box">
+                
+
+                <div class="box-content">
+                    <p class="well well-info">
+                        This is a page to remind myself that I've already have enough bags and should not purchase more 
+                        unless necessary. <br>
+    
+        
+                            Price is the total price that I paid in Canadian dollars
+                            after
+                            tax and fees.
+                            Total cost of the collection:
+                            <span class="green bold" id="totalPrice"></span>
+                    </p>
+    
+
+                    <div id="bagList"> </div>
+
+                </div>
+            </section>
+
+
+        </div>
+		<footer><!-- jQuery generated --></footer>
+
+    </section>
+</body>
+
+
+</html>
+
+
+<script src="bag.class.js"></script>
+<script src="bags.data.js"></script>
+
+<script>
+
+    // console.log(JSON.stringify(list));
+// console.log(list);
+
+const list = getMyBags();
+
+let totalPrice = 0;
+
+const bagHtml = list.map(bag => {
+    totalPrice += bag.price;
+    return bag.getHtml();
+
+}).join('');
+
+
+// let categoryBagTotal = 0;
+// let categoryBagHtml = `<hr><h3>Category</h3>`; 
+// categoryBagHtml += category.map(bag => { 
+//     categoryBagTotal += bag.price; 
+//     return bag.getHtml();
+// }).join(''); 
+// categoryBagHtml += ``;
+
+
+document.getElementById('totalPrice').innerHTML = readablePrice((totalPrice));
+document.getElementById('bagList').innerHTML = bagHtml; // + categoryBagHtml;
+</script>

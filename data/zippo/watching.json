@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Armor Coiled Brass", 
+        "code": "29625",
+        "listPrice": 99.96
+    },
+    {
+        "name": "Zippo Design", 
+        "code": "48247",
+        "listPrice": 59.96
+    },
+   
+    
+    {
+        "name": "Bolts Design", 
+        "code": "29672",
+        "listPrice": 133.29
+    }, 
+    {
+        "name": "Candy Apple Red", 
+        "material": "Zippo's Ice", 
+        "code": "21063", 
+        "listPrice": 39.96, 
+        "amazon": "https://amzn.to/3q65Ndb"
+    }
+  
+
+]
