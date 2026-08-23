@@ -1,4 +1,3 @@
-# My collection page
  
 
-### https://jdlwahaha.github.io/collection/
+### https://jdlwahaha.github.io/collections/
